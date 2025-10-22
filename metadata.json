@@ -1,0 +1,5 @@
+{
+  "name": "FinanSage AI",
+  "description": "An intelligent personal finance application that tracks your expenses, provides visual reports, and offers personalized saving tips powered by AI. Integrated with Supabase for secure data storage and authentication.",
+  "requestFramePermissions": []
+}
